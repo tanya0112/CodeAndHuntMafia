@@ -1,0 +1,1 @@
+prompt("Hi WELCOME to my portfolio which is actually a website I made for my brother's new startup.Are you ready to have a look?")
